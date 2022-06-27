@@ -1,1 +1,2 @@
-This is my redirection task
+#!/bin/bash
+Hello, World
